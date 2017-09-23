@@ -1,0 +1,236 @@
+BC–302
+
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM
+
+TS and CG Terminal Circuit
+DESCRIPTION
+In sensor check mode, malfunctions of the speed sensor that cannot be detected when the vehicle is
+stopped are detected while driving.
+Transition to the sensor check mode can be performed by connecting terminals TS and CG of the DLC3
+and turning the ignition switch from OFF to the ON position.
+
+WIRING DIAGRAM
+D4
+DLC3
+
+Master Cylinder Solenoid (Skid Control ECU)
+Instrument Panel J/B No. 1
+
+TS
+
+CG
+
+R-B
+12
+
+2
+DC
+
+7
+DA
+
+R-B
+
+24
+S1 TS
+
+W-B
+4
+
+IC
+
+BC
+F051289E03
+
+1
+DLC3:
+
+INSPECT DLC3 (TS TERMINAL VOLTAGE)
+(a) Turn the ignition switch to the ON position.
+(b) Measure the voltage.
+Standard
+
+CG
+
+1 2 3 4 5 6 7 8
+
+NG
+
+OK
+
+Specified Condition
+
+D4-12 (TS) - D4-4 (CG)
+
+10 to 14 V
+
+(c) Turn the ignition switch to OFF.
+
+9 10 11 12 13 14 15 16
+
+D4
+TS
+
+Tester Connection
+
+F100115E37
+
+Go to step 3
+
+BC–303
+
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM
+
+2
+
+CHECK HARNESS AND CONNECTOR (SKID CONTROL ECU - DLC3)
+
+Skid Control ECU
+(harness side connector):
+
+S1
+
+(a) Disconnect the skid control ECU connector.
+(b) Measure the resistance.
+Standard
+Tester Connection
+
+Specified condition
+
+S1-24 (TS) - D4-12 (TS)
+
+Below 1 Ω
+
+(c) Measure the resistance.
+Standard
+
+TS
+
+Tester Connection
+
+Specified Condition
+
+S1-24 (TS) - Body ground
+
+10 kΩ or higher
+
+(d) Reconnect the skid control ECU connector.
+
+DLC3:
+
+NG
+
+REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+
+1 2 3 4 5 6 7 8
+
+D4
+
+9 10 11 12 13 14 15 16
+
+TS
+
+C124792E03
+
+OK
+
+BC
+
+REPLACE MASTER CYLINDER SOLENOID
+
+3
+
+CHECK HARNESS AND CONNECTOR (BODY GROUND - DLC3)
+
+DLC3:
+
+D4
+
+(a) Measure the resistance.
+Standard
+
+1 2 3 4 5 6 7 8
+
+NG
+
+9 10 11 12 13 14 15 16
+
+CG
+F100115E35
+
+OK
+
+Tester Connection
+
+Specified condition
+
+D4 (CG) - Body ground
+
+Below 1 Ω
+
+REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+
+BC–304
+
+4
+
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM
+
+CHECK HARNESS AND CONNECTOR (SKID CONTROL ECU - DLC3)
+
+Skid Control ECU
+(harness side connector):
+
+S1
+
+(a) Disconnect the skid control ECU connector.
+(b) Measure the resistance.
+Standard
+Tester Connection
+
+Specified condition
+
+S1-24 (TS) - D4-12 (TS)
+
+Below 1 Ω
+
+(c) Measure the resistance.
+Standard
+
+TS
+
+Tester Connection
+
+Specified Condition
+
+S1-24 (TS) - Body ground
+
+10 kΩ or higher
+
+(d) Reconnect the skid control ECU connector.
+
+DLC3:
+
+NG
+1 2 3 4 5 6 7 8
+
+D4
+
+9 10 11 12 13 14 15 16
+
+TS
+
+C124792E03
+
+OK
+
+BC
+
+REPLACE MASTER CYLINDER SOLENOID
+
+REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+
+

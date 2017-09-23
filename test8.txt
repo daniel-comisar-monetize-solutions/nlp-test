@@ -1,0 +1,79 @@
+             BC–302                      BRAKE CONTROL  –  VEHICLE STABILITY CONTROL SYSTEM
+              TS and CG Terminal Circuit
+             DESCRIPTION
+             In sensor check mode, malfunctions of the speed sensor that cannot be detected when the vehicle is 
+             stopped are detected while driving.
+             Transition to the sensor check mode can be performed by connecting terminals TS and CG of the DLC3 
+             and turning the ignition switch from OFF to the ON position.
+             WIRING DIAGRAM
+                      D4                                                                     Master Cylinder Solenoid (Skid Control ECU)
+                      DLC3
+                                                             Instrument Panel J/B No. 1
+                                               R-B               7                      2               R-B                24
+                               TS 12                            DA                     DC                                 S1 TS
+                               CG                                  W-B
+                                    4
+                                                                                                       IC
+   BC
+                                                                                                                                           F051289E03
+                 1      INSPECT DLC3 (TS TERMINAL VOLTAGE)
+               DLC3:                                                 (a)   Turn the ignition switch to the ON position.
+                                    CG                               (b)   Measure the voltage.
+                                                                           Standard
+                           1 2 3 4 5 6 7 8                                       Tester Connection                      Specified Condition
+                                                                               D4-12 (TS) - D4-4 (CG)                        10 to 14 V
+                           9 10 11 12 13 14 15 16                    (c)   Turn the ignition switch to OFF.
+                 D4
+                                                                       NG                          Go to step 3
+                                    TS                    F100115E37
+                 OK
+                                           BRAKE CONTROL  –  VEHICLE STABILITY CONTROL SYSTEM                                           BC–303
+                   2      CHECK HARNESS AND CONNECTOR (SKID CONTROL ECU - DLC3)
+                                                                      (a)   Disconnect the skid control ECU connector.
+                 Skid Control ECU                                     (b)   Measure the resistance.
+                 (harness side connector):                S1                Standard
+                                                                                Tester Connection                     Specified condition
+                                                                              S1-24 (TS) - D4-12 (TS)                      Below 1 Ω
+                                                                      (c)   Measure the resistance.
+                                                                            Standard
+                                                                                Tester Connection                     Specified Condition
+                                                                             S1-24 (TS) - Body ground                   10 kΩ or higher
+                                                TS                    (d)   Reconnect the skid control ECU connector.
+                 DLC3:                                                  NG
+                                                                                      REPAIR OR REPLACE HARNESS OR 
+                                                                                      CONNECTOR
+                             1 2 3 4 5 6 7 8
+                   D4        9 10 11 12 13 14 15 16
+                                      TS                   C124792E03
+                    OK
+                REPLACE MASTER CYLINDER SOLENOID                                                                                                     BC
+                   3      CHECK HARNESS AND CONNECTOR (BODY GROUND - DLC3)
+                 DLC3:                                                (a)   Measure the resistance.
+                                                          D4                Standard
+                                                                                 Tester Connection                     Specified condition
+                             1 2 3 4 5 6 7 8                                   D4 (CG) - Body ground                       Below 1 Ω
+                             9 10 11 12 13 14 15 16                     NG            REPAIR OR REPLACE HARNESS OR 
+                                                                                      CONNECTOR
+                            CG
+                                                           F100115E35
+                    OK
+            BC–304                      BRAKE CONTROL  –  VEHICLE STABILITY CONTROL SYSTEM
+                4       CHECK HARNESS AND CONNECTOR (SKID CONTROL ECU - DLC3)
+                                                                    (a)  Disconnect the skid control ECU connector.
+              Skid Control ECU                                      (b)  Measure the resistance.
+              (harness side connector):                S1                Standard
+                                                                              Tester Connection                      Specified condition
+                                                                            S1-24 (TS) - D4-12 (TS)                      Below 1 Ω
+                                                                    (c)  Measure the resistance.
+                                                                         Standard
+                                                                                Tester Connection                    Specified Condition
+                                                                            S1-24 (TS) - Body ground                    10 kΩ or higher
+                                              TS                    (d)  Reconnect the skid control ECU connector.
+              DLC3:                                                   NG
+                                                                                   REPAIR OR REPLACE HARNESS OR 
+                                                                                   CONNECTOR
+                          1 2 3 4 5 6 7 8
+                 D4       9 10 11 12 13 14 15 16
+                                   TS                   C124792E03
+                 OK
+   BC REPLACE MASTER CYLINDER SOLENOID

@@ -1,0 +1,40 @@
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20050824211413-07'00'
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20050824211413-07'00'
+InfoBegin
+InfoKey: Author
+InfoValue: rgreenbe
+InfoBegin
+InfoKey: Title
+InfoValue: 041002-1002J_S0013_72B7H_T00EI.fm
+InfoBegin
+InfoKey: Creator
+InfoValue: PScript5.dll Version 5.2
+InfoBegin
+InfoKey: Producer
+InfoValue: Acrobat Distiller 6.0.1 (Windows)
+PdfID0: 3f4cbd6f5a4466c9d47dfa0463f0c541
+PdfID1: b968af7eedfeca48875576459f23ba0d
+NumberOfPages: 3
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageLabelBegin
+PageLabelNewIndex: 1
+PageLabelStart: 1
+PageLabelNumStyle: DecimalArabicNumerals

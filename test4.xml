@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.41.0">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="14" family="Times" color="#000000"/>
+	<fontspec id="1" size="12" family="Times" color="#000000"/>
+	<fontspec id="2" size="12" family="Times" color="#000000"/>
+	<fontspec id="3" size="27" family="Times" color="#ffffff"/>
+	<fontspec id="4" size="17" family="Times" color="#000000"/>
+	<fontspec id="5" size="14" family="Times" color="#000000"/>
+	<fontspec id="6" size="20" family="Times" color="#000000"/>
+	<fontspec id="7" size="18" family="Times" color="#000000"/>
+	<fontspec id="8" size="12" family="Times" color="#231f20"/>
+	<fontspec id="9" size="5" family="Times" color="#000000"/>
+	<fontspec id="10" size="11" family="Times" color="#231f20"/>
+	<fontspec id="11" size="12" family="Times" color="#231f20"/>
+	<fontspec id="12" size="9" family="Times" color="#000000"/>
+<image top="284" left="68" width="762" height="399" src="test4-1_1.png"/>
+<text top="33" left="68" width="60" height="15" font="0"><b>BC–302</b></text>
+<text top="41" left="230" width="442" height="14" font="1"><b>BRAKE CONTROL</b>  –  VEHICLE STABILITY CONTROL SYSTEM</text>
+<text top="629" left="16" width="42" height="28" font="3">BC</text>
+<text top="130" left="68" width="133" height="18" font="4"><b>DESCRIPTION</b></text>
+<text top="154" left="68" width="737" height="15" font="5">In sensor check mode, malfunctions of the speed sensor that cannot be detected when the vehicle is </text>
+<text top="173" left="68" width="255" height="15" font="5">stopped are detected while driving.</text>
+<text top="193" left="68" width="761" height="15" font="5">Transition to the sensor check mode can be performed by connecting terminals TS and CG of the DLC3 </text>
+<text top="212" left="68" width="433" height="15" font="5">and turning the ignition switch from OFF to the ON position.</text>
+<text top="251" left="68" width="171" height="18" font="4"><b>WIRING DIAGRAM</b></text>
+<text top="791" left="387" width="343" height="15" font="5">(a) Turn the ignition switch to the ON position.</text>
+<text top="810" left="387" width="188" height="15" font="5">(b) Measure the voltage.</text>
+<text top="830" left="421" width="71" height="15" font="0"><b>Standard</b></text>
+<text top="908" left="387" width="261" height="15" font="5">(c) Turn the ignition switch to OFF.</text>
+<text top="940" left="400" width="25" height="15" font="0"><b>NG</b></text>
+<text top="1007" left="94" width="25" height="15" font="0"><b>OK</b></text>
+<text top="87" left="74" width="291" height="21" font="6"><b>TS and CG Terminal Circuit</b></text>
+<text top="752" left="92" width="12" height="19" font="7"><b>1</b></text>
+<text top="754" left="134" width="327" height="15" font="0"><b>INSPECT DLC3 (TS TERMINAL VOLTAGE)</b></text>
+<text top="286" left="124" width="19" height="16" font="8">D4</text>
+<text top="304" left="124" width="38" height="16" font="8">DLC3</text>
+<text top="383" left="172" width="19" height="16" font="8">TS</text>
+<text top="484" left="170" width="22" height="16" font="8">CG</text>
+<text top="397" left="199" width="17" height="16" font="8">12</text>
+<text top="497" left="203" width="8" height="16" font="8">4</text>
+<text top="376" left="261" width="26" height="16" font="8">R-B</text>
+<text top="375" left="588" width="26" height="16" font="8">R-B</text>
+<text top="475" left="376" width="29" height="16" font="8">W-B</text>
+<text top="593" left="579" width="15" height="16" font="8">IC</text>
+<text top="387" left="359" width="21" height="16" font="8">DA</text>
+<text top="387" left="488" width="21" height="16" font="8">DC</text>
+<text top="365" left="495" width="8" height="16" font="8">2</text>
+<text top="365" left="364" width="8" height="16" font="8">7</text>
+<text top="387" left="690" width="18" height="16" font="8">S1</text>
+<text top="365" left="692" width="17" height="16" font="8">24</text>
+<text top="384" left="721" width="19" height="16" font="8">TS</text>
+<text top="323" left="341" width="177" height="16" font="8">Instrument Panel J/B No. 1</text>
+<text top="290" left="526" width="296" height="16" font="8">Master Cylinder Solenoid (Skid Control ECU)</text>
+<text top="674" left="787" width="43" height="7" font="9">F051289E03</text>
+<text top="908" left="282" width="14" height="14" font="10">16</text>
+<text top="908" left="262" width="14" height="14" font="10">15</text>
+<text top="908" left="242" width="14" height="14" font="10">14</text>
+<text top="908" left="223" width="14" height="14" font="10">13</text>
+<text top="908" left="203" width="14" height="14" font="10">12</text>
+<text top="908" left="184" width="13" height="14" font="10">11</text>
+<text top="908" left="164" width="14" height="14" font="10">10</text>
+<text top="908" left="148" width="7" height="14" font="10">9</text>
+<text top="868" left="285" width="7" height="14" font="10">8</text>
+<text top="868" left="266" width="7" height="14" font="10">7</text>
+<text top="868" left="246" width="7" height="14" font="10">6</text>
+<text top="868" left="226" width="7" height="14" font="10">5</text>
+<text top="868" left="207" width="7" height="14" font="10">4</text>
+<text top="868" left="187" width="7" height="14" font="10">3</text>
+<text top="868" left="167" width="7" height="14" font="10">2</text>
+<text top="868" left="148" width="7" height="14" font="10">1</text>
+<text top="805" left="80" width="43" height="16" font="11"><b>DLC3:</b></text>
+<text top="814" left="199" width="22" height="16" font="8">CG</text>
+<text top="960" left="201" width="19" height="16" font="8">TS</text>
+<text top="923" left="95" width="19" height="16" font="8">D4</text>
+<text top="972" left="324" width="42" height="7" font="9">F100115E37</text>
+<text top="859" left="456" width="104" height="11" font="12"><b>Tester Connection</b></text>
+<text top="859" left="675" width="112" height="11" font="12"><b>Specified Condition</b></text>
+<text top="880" left="446" width="125" height="11" font="12"><b>D4-12 (TS) - D4-4 (CG)</b></text>
+<text top="880" left="703" width="56" height="11" font="12"><b>10 to 14 V</b></text>
+<text top="941" left="478" width="159" height="15" font="0"><b>              Go to step 3</b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="13" size="9" family="Times" color="#000000"/>
+	<fontspec id="14" size="11" family="Times" color="#231f20"/>
+<image top="187" left="89" width="293" height="183" src="test4-2_1.png"/>
+<text top="41" left="246" width="442" height="14" font="1"><b>BRAKE CONTROL</b>  –  VEHICLE STABILITY CONTROL SYSTEM</text>
+<text top="33" left="790" width="60" height="15" font="0"><b>BC–303</b></text>
+<text top="629" left="861" width="42" height="28" font="3">BC</text>
+<text top="146" left="403" width="351" height="15" font="5">(a) Disconnect the skid control ECU connector.</text>
+<text top="166" left="403" width="210" height="15" font="5">(b) Measure the resistance.</text>
+<text top="185" left="437" width="71" height="15" font="0"><b>Standard</b></text>
+<text top="263" left="403" width="210" height="15" font="5">(c) Measure the resistance.</text>
+<text top="283" left="437" width="71" height="15" font="0"><b>Standard</b></text>
+<text top="361" left="403" width="348" height="15" font="5">(d) Reconnect the skid control ECU connector.</text>
+<text top="393" left="416" width="25" height="15" font="0"><b>NG</b></text>
+<text top="579" left="111" width="25" height="15" font="0"><b>OK</b></text>
+<text top="737" left="403" width="210" height="15" font="5">(a) Measure the resistance.</text>
+<text top="756" left="437" width="71" height="15" font="0"><b>Standard</b></text>
+<text top="847" left="416" width="25" height="15" font="0"><b>NG</b></text>
+<text top="953" left="111" width="25" height="15" font="0"><b>OK</b></text>
+<text top="107" left="109" width="12" height="19" font="7"><b>2</b></text>
+<text top="109" left="150" width="533" height="15" font="0"><b>CHECK HARNESS AND CONNECTOR (SKID CONTROL ECU - DLC3)</b></text>
+<text top="486" left="298" width="14" height="14" font="10">16</text>
+<text top="486" left="278" width="14" height="14" font="10">15</text>
+<text top="486" left="258" width="14" height="14" font="10">14</text>
+<text top="486" left="239" width="14" height="14" font="10">13</text>
+<text top="486" left="219" width="14" height="14" font="10">12</text>
+<text top="486" left="199" width="13" height="14" font="10">11</text>
+<text top="486" left="180" width="14" height="14" font="10">10</text>
+<text top="486" left="164" width="7" height="14" font="10">9</text>
+<text top="445" left="301" width="7" height="14" font="10">8</text>
+<text top="445" left="282" width="7" height="14" font="10">7</text>
+<text top="445" left="262" width="7" height="14" font="10">6</text>
+<text top="445" left="242" width="7" height="14" font="10">5</text>
+<text top="445" left="223" width="7" height="14" font="10">4</text>
+<text top="445" left="203" width="7" height="14" font="10">3</text>
+<text top="445" left="183" width="7" height="14" font="10">2</text>
+<text top="445" left="164" width="7" height="14" font="10">1</text>
+<text top="164" left="96" width="122" height="16" font="11"><b>Skid Control ECU</b></text>
+<text top="182" left="96" width="179" height="16" font="11"><b>(harness side connector):</b></text>
+<text top="376" left="96" width="43" height="16" font="11"><b>DLC3:</b></text>
+<text top="495" left="109" width="19" height="16" font="8">D4</text>
+<text top="182" left="332" width="18" height="16" font="8">S1</text>
+<text top="348" left="278" width="19" height="16" font="8">TS</text>
+<text top="533" left="217" width="19" height="16" font="8">TS</text>
+<text top="545" left="340" width="44" height="7" font="9">C124792E03</text>
+<text top="214" left="463" width="104" height="11" font="12"><b>Tester Connection</b></text>
+<text top="214" left="683" width="110" height="11" font="12"><b>Specified condition</b></text>
+<text top="235" left="451" width="129" height="11" font="12"><b>S1-24 (TS) - D4-12 (TS)</b></text>
+<text top="235" left="709" width="49" height="11" font="12"><b>Below 1 </b></text>
+<text top="232" left="758" width="9" height="15" font="13">Ω</text>
+<text top="311" left="463" width="104" height="11" font="12"><b>Tester Connection</b></text>
+<text top="311" left="682" width="112" height="11" font="12"><b>Specified Condition</b></text>
+<text top="332" left="443" width="144" height="11" font="12"><b>S1-24 (TS) - Body ground</b></text>
+<text top="332" left="694" width="23" height="11" font="12"><b>10 k</b></text>
+<text top="329" left="718" width="65" height="15" font="13">Ω<b> or higher</b></text>
+<text top="394" left="495" width="293" height="15" font="0"><b>REPAIR OR REPLACE HARNESS OR </b></text>
+<text top="413" left="495" width="106" height="15" font="0"><b>CONNECTOR</b></text>
+<text top="635" left="91" width="332" height="15" font="0"><b>REPLACE MASTER CYLINDER SOLENOID</b></text>
+<text top="697" left="109" width="12" height="19" font="7"><b>3</b></text>
+<text top="700" left="150" width="493" height="15" font="0"><b>CHECK HARNESS AND CONNECTOR (BODY GROUND - DLC3)</b></text>
+<text top="854" left="298" width="14" height="14" font="10">16</text>
+<text top="854" left="279" width="14" height="14" font="10">15</text>
+<text top="854" left="259" width="14" height="14" font="10">14</text>
+<text top="854" left="239" width="14" height="14" font="10">13</text>
+<text top="854" left="220" width="14" height="14" font="10">12</text>
+<text top="854" left="200" width="13" height="14" font="10">11</text>
+<text top="854" left="180" width="14" height="14" font="10">10</text>
+<text top="854" left="164" width="7" height="14" font="10">9</text>
+<text top="813" left="302" width="7" height="14" font="10">8</text>
+<text top="813" left="282" width="7" height="14" font="10">7</text>
+<text top="813" left="263" width="7" height="14" font="10">6</text>
+<text top="813" left="243" width="7" height="14" font="10">5</text>
+<text top="813" left="223" width="7" height="14" font="10">4</text>
+<text top="813" left="204" width="7" height="14" font="10">3</text>
+<text top="813" left="184" width="7" height="14" font="10">2</text>
+<text top="813" left="164" width="7" height="14" font="10">1</text>
+<text top="751" left="98" width="40" height="15" font="14"><b>DLC3:</b></text>
+<text top="903" left="162" width="20" height="14" font="10">CG</text>
+<text top="758" left="332" width="19" height="16" font="8">D4</text>
+<text top="918" left="341" width="42" height="7" font="9">F100115E35</text>
+<text top="785" left="467" width="104" height="11" font="12"><b>Tester Connection</b></text>
+<text top="785" left="687" width="110" height="11" font="12"><b>Specified condition</b></text>
+<text top="806" left="455" width="130" height="11" font="12"><b>D4 (CG) - Body ground</b></text>
+<text top="806" left="714" width="49" height="11" font="12"><b>Below 1 </b></text>
+<text top="803" left="762" width="9" height="15" font="13">Ω</text>
+<text top="848" left="495" width="293" height="15" font="0"><b>REPAIR OR REPLACE HARNESS OR </b></text>
+<text top="867" left="495" width="106" height="15" font="0"><b>CONNECTOR</b></text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<image top="187" left="72" width="293" height="183" src="test4-3_1.png"/>
+<text top="33" left="68" width="60" height="15" font="0"><b>BC–304</b></text>
+<text top="41" left="230" width="442" height="14" font="1"><b>BRAKE CONTROL</b>  –  VEHICLE STABILITY CONTROL SYSTEM</text>
+<text top="629" left="16" width="42" height="28" font="3">BC</text>
+<text top="146" left="387" width="351" height="15" font="5">(a) Disconnect the skid control ECU connector.</text>
+<text top="166" left="387" width="210" height="15" font="5">(b) Measure the resistance.</text>
+<text top="185" left="421" width="71" height="15" font="0"><b>Standard</b></text>
+<text top="263" left="387" width="210" height="15" font="5">(c) Measure the resistance.</text>
+<text top="283" left="421" width="71" height="15" font="0"><b>Standard</b></text>
+<text top="361" left="387" width="348" height="15" font="5">(d) Reconnect the skid control ECU connector.</text>
+<text top="393" left="400" width="25" height="15" font="0"><b>NG</b></text>
+<text top="579" left="94" width="25" height="15" font="0"><b>OK</b></text>
+<text top="107" left="92" width="12" height="19" font="7"><b>4</b></text>
+<text top="109" left="134" width="532" height="15" font="0"><b>CHECK HARNESS AND CONNECTOR (SKID CONTROL ECU - DLC3)</b></text>
+<text top="486" left="281" width="14" height="14" font="10">16</text>
+<text top="486" left="261" width="14" height="14" font="10">15</text>
+<text top="486" left="242" width="14" height="14" font="10">14</text>
+<text top="486" left="222" width="14" height="14" font="10">13</text>
+<text top="486" left="202" width="14" height="14" font="10">12</text>
+<text top="486" left="183" width="13" height="14" font="10">11</text>
+<text top="486" left="163" width="14" height="14" font="10">10</text>
+<text top="486" left="147" width="7" height="14" font="10">9</text>
+<text top="445" left="285" width="7" height="14" font="10">8</text>
+<text top="445" left="265" width="7" height="14" font="10">7</text>
+<text top="445" left="245" width="7" height="14" font="10">6</text>
+<text top="445" left="226" width="7" height="14" font="10">5</text>
+<text top="445" left="206" width="7" height="14" font="10">4</text>
+<text top="445" left="186" width="7" height="14" font="10">3</text>
+<text top="445" left="167" width="7" height="14" font="10">2</text>
+<text top="445" left="147" width="7" height="14" font="10">1</text>
+<text top="164" left="80" width="122" height="16" font="11"><b>Skid Control ECU</b></text>
+<text top="182" left="80" width="179" height="16" font="11"><b>(harness side connector):</b></text>
+<text top="376" left="80" width="43" height="16" font="11"><b>DLC3:</b></text>
+<text top="495" left="93" width="19" height="16" font="8">D4</text>
+<text top="182" left="316" width="18" height="16" font="8">S1</text>
+<text top="348" left="261" width="19" height="16" font="8">TS</text>
+<text top="533" left="200" width="19" height="16" font="8">TS</text>
+<text top="545" left="323" width="44" height="7" font="9">C124792E03</text>
+<text top="214" left="450" width="104" height="11" font="12"><b>Tester Connection</b></text>
+<text top="214" left="670" width="110" height="11" font="12"><b>Specified condition</b></text>
+<text top="235" left="438" width="129" height="11" font="12"><b>S1-24 (TS) - D4-12 (TS)</b></text>
+<text top="235" left="697" width="49" height="11" font="12"><b>Below 1 </b></text>
+<text top="232" left="745" width="9" height="15" font="13">Ω</text>
+<text top="311" left="456" width="104" height="11" font="12"><b>Tester Connection</b></text>
+<text top="311" left="675" width="112" height="11" font="12"><b>Specified Condition</b></text>
+<text top="332" left="436" width="144" height="11" font="12"><b>S1-24 (TS) - Body ground</b></text>
+<text top="332" left="688" width="23" height="11" font="12"><b>10 k</b></text>
+<text top="329" left="711" width="65" height="15" font="13">Ω<b> or higher</b></text>
+<text top="394" left="478" width="293" height="15" font="0"><b>REPAIR OR REPLACE HARNESS OR </b></text>
+<text top="413" left="478" width="106" height="15" font="0"><b>CONNECTOR</b></text>
+<text top="635" left="74" width="332" height="15" font="0"><b>REPLACE MASTER CYLINDER SOLENOID</b></text>
+</page>
+</pdf2xml>

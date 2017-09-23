@@ -1,0 +1,164 @@
+<!DOCTYPE html><html>
+<head>
+<title></title>
+<style type="text/css">
+<!--
+.xflip {
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: fliph;
+}
+.yflip {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    filter: flipv;
+}
+.xyflip {
+    -moz-transform: scaleX(-1) scaleY(-1);
+    -webkit-transform: scaleX(-1) scaleY(-1);
+    -o-transform: scaleX(-1) scaleY(-1);
+    transform: scaleX(-1) scaleY(-1);
+    filter: fliph + flipv;
+}
+-->
+</style>
+</head>
+<body>
+<a name=1></a><img src="test3-1_1.png"/><br/>
+<b>BC–302</b><br/>
+<b>BRAKE CONTROL</b>&#160;&#160;– &#160;VEHICLE&#160;STABILITY CONTROL SYSTEM<br/>
+<b>TS and CG Terminal Circuit</b><br/>
+<b>DESCRIPTION<br/></b>In&#160;sensor check mode, malfunctions&#160;of the&#160;speed&#160;sensor that cannot be&#160;detected&#160;when the&#160;vehicle is&#160;<br/>stopped are detected while driving.<br/>Transition to&#160;the sensor check mode&#160;can&#160;be performed by&#160;connecting terminals TS&#160;and CG of the&#160;DLC3&#160;<br/>and turning the ignition&#160;switch from&#160;OFF to the ON position.<br/>
+<b>WIRING DIAGRAM</b><br/>
+D4<br/>
+Master Cylinder Solenoid (Skid Control ECU)<br/>
+DLC3<br/>
+Instrument Panel J/B No. 1<br/>
+7<br/>
+2<br/>
+24<br/>
+TS<br/>
+R-B<br/>
+R-B<br/>
+DA<br/>
+DC<br/>
+S1&#160;TS<br/>
+12<br/>
+W-B<br/>
+CG&#160;4<br/>
+IC<br/>
+BC<br/>
+F051289E03<br/>
+<b>1</b><br/>
+<b>INSPECT DLC3 (TS TERMINAL VOLTAGE)</b><br/>
+(a)&#160;Turn the ignition&#160;switch to&#160;the ON position.<br/>
+<b>DLC3:</b><br/>
+(b)&#160;Measure&#160;the voltage.<br/>
+CG<br/>
+<b>Standard</b><br/>
+<b>Tester Connection</b><br/>
+<b>Specified&#160;Condition</b><br/>
+1&#160;2&#160;3&#160;4&#160;5&#160;6&#160;7&#160;8<br/>
+<b>D4-12 (TS) -&#160;D4-4&#160;(CG)</b><br/>
+<b>10 to&#160;14 V</b><br/>
+9&#160;10&#160;11&#160;12&#160;13&#160;14&#160;15&#160;16<br/>
+(c)&#160;Turn the ignition&#160;switch to&#160;OFF.<br/>
+D4<br/>
+<b>NG</b><br/>
+<b>&#160; &#160;&#160; &#160; &#160; &#160; &#160;&#160;&#160;Go to&#160;step 3</b><br/>
+TS<br/>
+F100115E37<br/>
+<b>OK</b><br/>
+<hr/>
+<a name=2></a><img src="test3-2_1.png"/><br/>
+<b>BC–303</b><br/>
+<b>BRAKE CONTROL</b>&#160;&#160;–&#160;&#160;VEHICLE STABILITY CONTROL SYSTEM<br/>
+<b>2</b><br/>
+<b>CHECK HARNESS AND CONNECTOR (SKID CONTROL ECU - DLC3)</b><br/>
+(a)&#160;Disconnect the&#160;skid control ECU connector.<br/>
+<b>Skid Control ECU</b><br/>
+(b)&#160;Measure the resistance.<br/>
+<b>(harness side connector):</b><br/>
+S1<br/>
+<b>Standard</b><br/>
+<b>Tester&#160;Connection</b><br/>
+<b>Specified&#160;condition</b><br/>
+<b>S1-24 (TS)&#160;- D4-12 (TS)</b><br/>
+<b>Below&#160;1&#160;</b>Ω<br/>
+(c)&#160;Measure the resistance.<br/>
+<b>Standard</b><br/>
+<b>Tester&#160;Connection</b><br/>
+<b>Specified&#160;Condition</b><br/>
+<b>S1-24&#160;(TS)&#160;- Body&#160;ground</b><br/>
+<b>10&#160;k</b>Ω<b>&#160;or&#160;higher</b><br/>
+TS<br/>
+(d)&#160;Reconnect the skid&#160;control ECU connector.<br/>
+<b>DLC3:</b><br/>
+<b>NG</b><br/>
+<b>REPAIR OR REPLACE&#160;HARNESS&#160;OR&#160;<br/>CONNECTOR</b><br/>
+1&#160;2&#160;3&#160;4&#160;5&#160;6&#160;7&#160;8<br/>
+9&#160;10&#160;11&#160;12&#160;13&#160;14&#160;15&#160;16<br/>
+D4<br/>
+TS<br/>
+C124792E03<br/>
+<b>OK</b><br/>
+<b>REPLACE&#160;MASTER&#160;CYLINDER&#160;SOLENOID</b><br/>
+BC<br/>
+<b>3</b><br/>
+<b>CHECK HARNESS AND CONNECTOR (BODY GROUND - DLC3)</b><br/>
+(a)&#160;Measure the resistance.<br/>
+<b>DLC3:</b><br/>
+D4<br/>
+<b>Standard</b><br/>
+<b>Tester&#160;Connection</b><br/>
+<b>Specified&#160;condition</b><br/>
+<b>D4 (CG)&#160;- Body ground</b><br/>
+<b>Below&#160;1&#160;</b>Ω<br/>
+1&#160;2&#160;3&#160;4&#160;5&#160;6&#160;7&#160;8<br/>
+<b>NG</b><br/>
+9&#160;10&#160;11&#160;12&#160;13&#160;14&#160;15&#160;16<br/>
+<b>REPAIR OR REPLACE&#160;HARNESS&#160;OR&#160;<br/>CONNECTOR</b><br/>
+CG<br/>
+F100115E35<br/>
+<b>OK</b><br/>
+<hr/>
+<a name=3></a><img src="test3-3_1.png"/><br/>
+<b>BC–304</b><br/>
+<b>BRAKE CONTROL</b>&#160;&#160;– &#160;VEHICLE&#160;STABILITY CONTROL SYSTEM<br/>
+<b>4</b><br/>
+<b>CHECK&#160;HARNESS AND CONNECTOR (SKID CONTROL&#160;ECU - DLC3)</b><br/>
+(a)&#160;Disconnect the skid control ECU&#160;connector.<br/>
+<b>Skid Control ECU</b><br/>
+(b)&#160;Measure the resistance.<br/>
+<b>(harness side connector):</b><br/>
+S1<br/>
+<b>Standard</b><br/>
+<b>Tester Connection</b><br/>
+<b>Specified condition</b><br/>
+<b>S1-24 (TS) -&#160;D4-12 (TS)</b><br/>
+<b>Below 1&#160;</b>Ω<br/>
+(c)&#160;Measure the resistance.<br/>
+<b>Standard</b><br/>
+<b>Tester Connection</b><br/>
+<b>Specified&#160;Condition</b><br/>
+<b>S1-24 (TS) -&#160;Body&#160;ground</b><br/>
+<b>10 k</b>Ω<b>&#160;or higher</b><br/>
+TS<br/>
+(d)&#160;Reconnect the skid control ECU connector.<br/>
+<b>DLC3:</b><br/>
+<b>NG</b><br/>
+<b>REPAIR OR&#160;REPLACE HARNESS&#160;OR&#160;<br/>CONNECTOR</b><br/>
+1&#160;2&#160;3&#160;4&#160;5&#160;6&#160;7&#160;8<br/>
+9&#160;10&#160;11&#160;12&#160;13&#160;14&#160;15&#160;16<br/>
+D4<br/>
+TS<br/>
+C124792E03<br/>
+<b>OK</b><br/>
+BC&#160;<b>REPLACE MASTER CYLINDER SOLENOID</b><br/>
+<hr/>
+</body>
+</html>
